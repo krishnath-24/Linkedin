@@ -8,7 +8,7 @@ export const Container = styled.div`
   justify-content: space-between;
   background-color: #f3f2ee;
   min-height: 100vh;
-  padding-top: 40px;
+  padding-top: 80px;
   min-height: 100vh;
 `;
 

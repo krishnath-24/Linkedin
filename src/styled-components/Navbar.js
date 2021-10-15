@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const NavbarContainer = styled.div`
   display: flex;
-  position: sticky;
+  position: fixed;
   z-index: 2;
   top: 0px;
   background-color: #ffffff;
@@ -12,7 +12,7 @@ export const NavbarContainer = styled.div`
   padding-left: 11%;
   padding-right: 15%;
   width: 100%;
-  height: 50px;
+  height: 60px;
   box-shadow: 0px 0px 1px 0.5px #ccc;
 `;
 
