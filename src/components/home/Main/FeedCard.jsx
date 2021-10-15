@@ -11,9 +11,7 @@ import {
   ThreeDots,
 } from "react-bootstrap-icons";
 
-import { AiFillLike } from "react-icons/ai";
 import { BiLike } from "react-icons/bi";
-import {FaHandHoldingHeart} from 'react-icons/fa'
 import {RiHandHeartFill} from 'react-icons/ri'
 
 import styled from "styled-components";

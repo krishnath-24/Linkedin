@@ -13,7 +13,7 @@ import { selectName } from "./slices/userSlice";
 
 function App() {
   const Name = useSelector(selectName);
-  const [isLoggedIn, setIsLoggedIn] = useState(true);
+  // eslint-disable-next-line
   const [name, setName] = useState(Name);
   useEffect(() => {
     console.log({ name });
