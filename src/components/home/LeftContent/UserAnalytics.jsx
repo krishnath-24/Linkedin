@@ -10,7 +10,7 @@ export default function UserAnalytics() {
       <div
         className="w-full h-16 z-0"
         style={{
-          background: `url("https://media-exp1.licdn.com/dms/image/C4E16AQHx59wjvMau3g/profile-displaybackgroundimage-shrink_350_1400/0/1606107960557?e=1631750400&v=beta&t=cN5racQnWxzuCAGvh8ah1L6P5IWLGOGCsRA80A2i1r0") no-repeat center`,
+          background: `url("https://media-exp1.licdn.com/dms/image/C4E16AQHx59wjvMau3g/profile-displaybackgroundimage-shrink_350_1400/0/1606107960557?e=1643846400&v=beta&t=s7qD2AejavSqmCBSAk_LPYpZw620h1DjVOL_zzdw5oY") no-repeat center`,
         }}
       ></div>
       <UserCircle src={ProfileImage} width="70px" className="absolute top-6" />
