@@ -1,1 +1,1 @@
-export const ProfileImage = "https://media-exp1.licdn.com/dms/image/C4D03AQHXfyMqbUuuyg/profile-displayphoto-shrink_400_400/0/1633700718971?e=1639612800&v=beta&t=1hSU4XsbGwg_WFWp8x_jKlv0xug93WrcnWuqx1uSGBY"
+export const ProfileImage = "https://media.licdn.com/dms/image/v2/D5603AQGf5fV-ZodbRw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678984126191?e=1738800000&v=beta&t=oIAM2DLybyE_GO_GWIFQe5FiiEwLXYxtiMvUcrUylWM"

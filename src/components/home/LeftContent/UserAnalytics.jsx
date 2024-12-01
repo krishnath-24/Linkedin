@@ -10,7 +10,7 @@ export default function UserAnalytics() {
       <div
         className="w-full h-16 z-0"
         style={{
-          background: `url("https://media-exp1.licdn.com/dms/image/C4E16AQHx59wjvMau3g/profile-displaybackgroundimage-shrink_350_1400/0/1606107960557?e=1643846400&v=beta&t=s7qD2AejavSqmCBSAk_LPYpZw620h1DjVOL_zzdw5oY") no-repeat center`,
+          background: `url("https://static.licdn.com/aero-v1/sc/h/7sb67vl48t706tmd6vd4st83x") no-repeat center`,
         }}
       ></div>
       <UserCircle src={ProfileImage} width="70px" className="absolute top-6" />
