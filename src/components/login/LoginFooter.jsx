@@ -1,7 +1,7 @@
 import React from "react";
 import { Linkedin } from "react-bootstrap-icons";
 import { AiOutlineCopyrightCircle } from "react-icons/ai";
-import { BsChevronCompactDown } from "react-icons/bs";
+// import { BsChevronCompactDown } from "react-icons/bs";
 
 import styled from "styled-components";
 import { DivFlex } from "../../styled-components/common/CommonStyles";
@@ -37,7 +37,7 @@ function LoginFooter() {
           Send Feedback
         </FooterLink>
         <FooterLink className="flex items-center footer-link hover:text-blue-800 text-xs mx-1 text-gray-500 font-bold flex items-center">
-          <div>Language</div> <BsChevronCompactDown fill="#5e5b5b" size={14}/>
+          {/* <div>Language</div> <BsChevronCompactDown fill="#5e5b5b" size={14}/> */}
         </FooterLink>
       </FooterLinks>
     </DivFlex>

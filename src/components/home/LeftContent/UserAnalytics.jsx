@@ -10,7 +10,7 @@ export default function UserAnalytics() {
       <div
         className="w-full h-16 z-0"
         style={{
-          background: `url("https://static.licdn.com/aero-v1/sc/h/7sb67vl48t706tmd6vd4st83x") no-repeat center`,
+          background: `url("https://www.linkedin.com/in/anuj-sharma-1b9a72141/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOUza5Q9tRA2Zv3XRTL%2BU8w%3D%3D") no-repeat center`,
         }}
       ></div>
       <UserCircle src={ProfileImage} width="70px" className="absolute top-6" />

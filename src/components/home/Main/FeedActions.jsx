@@ -14,7 +14,7 @@ import { Card } from "../../../styled-components/common/CommonStyles";
 export default function FeedActions({ author }) {
   return (
     <Card
-      className="absolute top-12 left-1/3 z-50"
+      className="absolute top-12 right-0 z-50"
       box="0px 1px 3px 0.5px #b8b3b3"
       width="348px"
     >

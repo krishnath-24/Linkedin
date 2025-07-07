@@ -11,7 +11,7 @@ import {
   ThreeDots,
 } from "react-bootstrap-icons";
 
-import { BiLike } from "react-icons/bi";
+// import { BiLike } from "react-icons";
 import {RiHandHeartFill} from 'react-icons/ri'
 
 import styled from "styled-components";
@@ -91,7 +91,7 @@ export default function FeedCard({ body, user }) {
       <FeedContent className="feed-content py-3">{body}</FeedContent>
       <DivFlex className="reaction-icons items-center">
         <HeartFill fill="#CB6340" size={12} />
-        <BiLike fill="#1585BD" size={14} className="mx-1" />
+        {/* <BiLike fill="#1585BD" size={14} className="mx-1" /> */}
         <RiHandHeartFill fill="#01937C"/>
         <div className="text-xs ml-1 text-gray-600">100</div>
         <Dot />

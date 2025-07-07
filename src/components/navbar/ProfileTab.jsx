@@ -4,7 +4,7 @@ import { UserCircle } from "../../styled-components/ProfileTab";
 export default function ProfileTab() {
   return (
     <>
-      <UserCircle src="https://media.licdn.com/dms/image/v2/D5603AQGf5fV-ZodbRw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678984126191?e=1738800000&v=beta&t=d_CbH4shD_KFx4pnKCqjUlEUhF-SBiO5i611_vo2IRM" />
+      <UserCircle src="https://media.licdn.com/dms/image/v2/D4D03AQEvG1JzISZRQQ/profile-displayphoto-shrink_400_400/B4DZZsMMT8GwAg-/0/1745571858448?e=1757548800&v=beta&t=SM-8hjtgVKk5vlIVJT9BvslXIwa4tPFKurw-scGcje0" />
     </>
   );
 }
